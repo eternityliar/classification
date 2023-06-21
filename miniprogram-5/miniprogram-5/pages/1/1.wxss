@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.input-box {
+  width: 80%;
+  height: 500rpx;
+  font-size: 50rpx;
+  padding: 10rpx;
+  border: 5rpx solid #ccc;
+  border-radius: 40rpx;
+  margin-top: 180px;
+}
+.press{
+  background-color: #2274A5;
+  color: #ffffff;
+}
+
+.text {
+  font-size: 50px;
+  text-align: center; 
+  margin-top: 40px; 
+
+}
+

@@ -1,0 +1,9 @@
+
+<div class="container">
+  <p class="text">垃圾分类</p>
+</div>
+
+<view class="container" style="position: relative; left: 1rpx; top: -522rpx">
+  <input style="width: 596rpx; height: 200rpx; display: block; box-sizing: border-box" bindinput="onInput" placeholder="请输入垃圾内容"class="input-box" />
+  <button bindtap="navigateToNextPage" class="press"style="position: relative; left: -1rpx; top: 201rpx">查询</button>
+</view>

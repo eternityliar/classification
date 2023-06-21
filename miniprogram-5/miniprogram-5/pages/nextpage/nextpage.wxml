@@ -1,0 +1,4 @@
+<!-- nextpage.wxml -->
+<view>
+  <text>您输入的垃圾属于{{type}}。</text>
+</view>
